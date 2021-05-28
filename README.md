@@ -1,9 +1,6 @@
-# servlet-example
-
-## Java servlet example .
-### alex.war file
+# Java servlet example.
+## alex.war 
 
 ### http://localhost:8080/alex/my-servlet
-
 
 ![servlet](/servlet.png?raw=true)
